@@ -66,6 +66,8 @@ Ironically even though these two don't support Linux, with some manual tweaks th
 
 The scrolling on macos in some apps sometimes fails to register. So you would scroll but nothing will happen. I fully blame this on macos, it is the shittest OS out of the 3 I use and it isn't the first time I came across stupid issues. Either way its something to do with qmk so it will probably happen with all qmk scrollers. I will be customising and updating to the latest qmk firmware soon so will see if this is a problem after my tweaks.
 
+So after updating to the latest QMK and playing around with it more. It turns out this is an issue with all mice on macos, its just more noticeable on the ploopy because when you start scrolling it sort of counts like one event whereas on other mice/trackballs if you keep scrolling its like different events so it starts scrolling eventually, but you do notice it fail to scroll on the first scroll sometimes. Again Macos ia just shit not a problem on every other OS.
+
 
 # Modding Ability
 
@@ -89,8 +91,13 @@ I created a wrist rest in a similiar style to my keyboard in TPU at 10% infill s
 
 And lastly the buttons are hard to distinguish and maybe a little bit hard to reach so I modified the [raised buttons stl file here](https://www.printables.com/model/1018787-raised-buttons-for-ploopy-adept) to be printable on shit printers like mine that can't do god like overhangs. You can find the modded sql in the stl folder in this repo. To secure the buttons onto the trackball I just used very small pieces of bluetack since I'm not fully commited yet, I might tweak the design further.
 
+I also created a carrying case for the ploopy so that I can bring it to work safer without damaging it. You will find two stl files for this in the repo prefixed with `ploopy_case-`. I super glued some pieces of foam on the bottom of the case and on the case cover. The foam is just some random foam that came in some packaging but its roughly 5mm thick. I added photos of this underneath. The foam prevents it from rubbing on plastic in the case and prevents it from moving around, and keeps the ball in place so I highly recommend using foam. To keep the cover on use a large rubber band.
+
 ![ploopy](./ploopy.jpg)
 
+Foam Placement | Side View | Ploopy in Box | Box Closed
+:---:|:---:|:---:|:---:
+![foam](./ploopy_case_1.jpg) | ![side](./ploopy_case_2.jpg) | ![ploopy in box](./ploopy_case_3.jpg) | ![box closed](./ploopy_case_4.jpg)
 
 # Conclusion
 
