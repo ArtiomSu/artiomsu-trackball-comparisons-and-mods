@@ -85,15 +85,45 @@ I have replaced the bearing for this with some white Ceramic Zirconium Oxide one
 
 ### Ploopy Adept
 
-For this I printed the usual base to tilt the trackpad by 10 degees. Someone already made a good base [here](https://www.printables.com/model/921945-ploopy-adept-wedge-10deg) so I just printed that.
+#### Base
 
-I created a wrist rest in a similiar style to my keyboard in TPU at 10% infill so that its nice and soft. I recommend you make your own to match your setup, but if you want mine its in the stl folder in this repo.
+For this I printed the usual base to tilt the trackpad by 10 degees.
 
-And lastly the buttons are hard to distinguish and maybe a little bit hard to reach so I modified the [raised buttons stl file here](https://www.printables.com/model/1018787-raised-buttons-for-ploopy-adept) to be printable on shit printers like mine that can't do god like overhangs. You can find the modded sql in the stl folder in this repo. To secure the buttons onto the trackball I just used very small pieces of bluetack since I'm not fully commited yet, I might tweak the design further.
+Someone already made a good base [here](https://www.printables.com/model/921945-ploopy-adept-wedge-10deg) so I just printed that.
 
-I also created a carrying case for the ploopy so that I can bring it to work safer without damaging it. You will find two stl files for this in the repo prefixed with `ploopy_case-`. I super glued some pieces of foam on the bottom of the case and on the case cover. The foam is just some random foam that came in some packaging but its roughly 5mm thick. I added photos of this underneath. The foam prevents it from rubbing on plastic in the case and prevents it from moving around, and keeps the ball in place so I highly recommend using foam. To keep the cover on use a large rubber band.
+#### Wrist Rest
+
+I created a wrist rest in a similiar style to my keyboard in TPU at 10% infill so that its nice and soft.
+
+I recommend you make your own to match your setup, but if you want mine its in the stl folder in this repo.
+
+#### Raised Buttons
+
+The buttons are hard to distinguish and maybe a little bit hard to reach so I modified the [raised buttons stl file here](https://www.printables.com/model/1018787-raised-buttons-for-ploopy-adept) to be printable on shit printers like mine that can't do god like overhangs.
+
+You can find the modded sql in the stl folder in this repo. 
+
+To secure the buttons onto the trackball ~~I just used very small pieces of bluetack since I'm not fully commited yet, I might tweak the design further.~~ I used double sided tape.
+
+#### Carrying Case
+
+I also created a carrying case for the ploopy so that I can bring it to work safer without damaging it. 
+
+You will find two stl files for this in the repo prefixed with `ploopy_case-` (there is a blank version of the base without the username now). 
+
+I super glued some pieces of foam on the bottom of the case and on the case cover. 
+
+The foam is just some random foam that came in some packaging but its roughly 5mm thick. 
+
+I added photos of this underneath. The foam prevents it from rubbing on plastic in the case and prevents it from moving around, and keeps the ball in place so I highly recommend using foam. 
+
+To keep the cover on use a large rubber band.
+
+#### All mods
 
 ![ploopy](./ploopy.jpg)
+
+#### Carrying case
 
 Foam Placement | Side View | Ploopy in Box | Box Closed
 :---:|:---:|:---:|:---:
@@ -105,4 +135,7 @@ I like the form factor of the Kensington but for everything else I prefer ploopy
 
 I have plans on building my own trackball using the same sensor and raspbery pi pico micro controller as ploopy but with a much larger ball. And possibly BTU bearings instead of ball bearings, I am still experimenting with them for now.
 
-I will be using the ploopy primarily at home and will continue to bring the Kensington to the office with me for now. Currently the ploopy will probably not survive too many office trips until I print some case for it. 
+~~I will be using the ploopy primarily at home and will continue to bring the Kensington to the office with me for now. Currently the ploopy will probably not survive too many office trips until I print some case for it.~~
+
+I am now using the ploopy adept everywhere.
+
